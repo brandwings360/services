@@ -16,9 +16,7 @@
         often at a lower cost than traditional channels.
       </p>
     </section>
-
     <div class="divider"></div>
-
     <section>
       <h2>Top rated digital marketing services you should consider</h2>
 
@@ -98,7 +96,6 @@
   </footer>
 
   <script>
-    document.getElementById('year').textContent = new Date().getFullYear();
   </script>
 </body>
 </html>
